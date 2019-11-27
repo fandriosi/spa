@@ -1,3 +1,7 @@
+com/fabio/andriosi/boundary/Network.class
 com/fabio/andriosi/ping/boundary/Ping.class
-com/fabio/andriosi/ping/boundary/PingResource.class
+com/fabio/andriosi/session/UserFacade.class
+com/fabio/andriosi/session/AbstractFacade.class
+com/fabio/andriosi/ping/boundary/UserResource.class
+com/fabio/andriosi/entities/User.class
 com/fabio/andriosi/JAXRSConfiguration.class

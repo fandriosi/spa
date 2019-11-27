@@ -1,3 +1,7 @@
-/home/fabio/NetBeansProjects/spa/src/main/java/com/fabio/andriosi/ping/boundary/PingResource.java
+/home/fabio/NetBeansProjects/spa/src/main/java/com/fabio/andriosi/entities/User.java
+/home/fabio/NetBeansProjects/spa/src/main/java/com/fabio/andriosi/session/AbstractFacade.java
+/home/fabio/NetBeansProjects/spa/src/main/java/com/fabio/andriosi/ping/boundary/UserResource.java
+/home/fabio/NetBeansProjects/spa/src/main/java/com/fabio/andriosi/boundary/Network.java
 /home/fabio/NetBeansProjects/spa/src/main/java/com/fabio/andriosi/ping/boundary/Ping.java
 /home/fabio/NetBeansProjects/spa/src/main/java/com/fabio/andriosi/JAXRSConfiguration.java
+/home/fabio/NetBeansProjects/spa/src/main/java/com/fabio/andriosi/session/UserFacade.java
